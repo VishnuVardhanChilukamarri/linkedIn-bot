@@ -12,5 +12,5 @@ The bot then sends a customized HTML email with the created dataframe attached t
 
 The bot takes in an integer input 'n', that accepts a maximun value of 40. In case of 'n' > 40, then 'n' is set to 40.
 
-The bot then automatically sends out requests to 'n' suggested people.
+The bot then automatically sends out requests to 'n' suggested people..
 
